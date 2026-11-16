@@ -457,7 +457,7 @@ namespace OFX {
         _paramProps.propSetString(kOfxParamPropDefaultCoordinateSystem, kOfxParamCoordinatesNormalised);
         break;
       }
-    } catch (std::exception&) {
+    } catch (const std::exception&) {
     }
   }
 
