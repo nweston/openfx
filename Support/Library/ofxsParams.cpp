@@ -3224,4 +3224,4 @@ namespace OFX {
     (void)stat;
   }
 
-};
+}

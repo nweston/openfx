@@ -542,6 +542,6 @@ namespace OFX {
       return stat;
     }
 
-  }; // end namespace private
+  } // end namespace private
 
-}; // end of namespace
+} // end of namespace

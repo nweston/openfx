@@ -125,5 +125,5 @@ namespace OFX {
       return stat == kOfxStatOK;
     }
 
-  };
-};
+  }
+}

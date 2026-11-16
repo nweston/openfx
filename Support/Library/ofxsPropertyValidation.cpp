@@ -1310,5 +1310,5 @@ namespace OFX {
       }
 #endif
     }
-  };
-};
+  }
+}

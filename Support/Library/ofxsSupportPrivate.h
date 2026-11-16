@@ -74,7 +74,7 @@ namespace OFX {
     typedef std::map<ContextEnum, ImageEffectDescriptor*> EffectContextMap;
     typedef std::map<std::string, EffectContextMap> EffectDescriptorMap;
     extern EffectDescriptorMap gEffectDescriptors;
-  };
+  }
 
   /** @brief The validation code has its own namespace */
   namespace Validation {
@@ -222,8 +222,8 @@ namespace OFX {
 
     /** @brief initialises the validation code, call this in on load */
     void initialise(void);
-  };
+  }
 
-};
+}
 
 #endif
